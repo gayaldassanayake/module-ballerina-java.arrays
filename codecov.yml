@@ -1,7 +1,7 @@
 fixes:
-  - "ballerina/java.arrays/*/::java.arrays-ballerina/"
+  - "ballerinax/java$0046arrays/*/::java.arrays-ballerina/"
 
 ignore:
   - "**/tests"
-  - "java.arrays-test-utils"
+  - "testutils"
 
