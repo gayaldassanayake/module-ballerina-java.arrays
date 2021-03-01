@@ -3,5 +3,5 @@ fixes:
 
 ignore:
   - "**/tests"
-  - "testutils"
+  - "java.arrays-test-utils"
 
